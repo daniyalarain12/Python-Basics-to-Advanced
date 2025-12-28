@@ -1,0 +1,7 @@
+#PRINT STATEMENT
+print("DANIYAL IS A GOOD BOY.")
+print("I AM A FAN OF BABAR AZAM.")
+print("DANIYAL IS A GOOD BOY.","I AM A FAN OF BABAR AZAM.")
+print(2)
+print(23+34)
+print(23,73)
