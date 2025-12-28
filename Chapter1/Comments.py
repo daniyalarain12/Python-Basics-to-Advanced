@@ -1,0 +1,8 @@
+#COMMENTS
+
+#SINLE-LINE COMMENT
+#print('DANIYAL')
+
+#MULTI-LINE COMMENT
+"""print('DANIYAL')
+print("ARAIN")"""
