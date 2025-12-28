@@ -1,0 +1,5 @@
+#WRITE A PROGRAM TO INPUT 2 NUMBERS a AND b. PRINT True IF a IS GREATER THAN OR EQUAL TO b. IF NOT PRINT FALSE.
+
+a = int(input("ENTER 1ST NUMBER : "))
+b = int(input("ENTER 2ND NUMBER : "))
+print(a>=b)
