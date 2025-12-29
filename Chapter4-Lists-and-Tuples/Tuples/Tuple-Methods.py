@@ -1,0 +1,10 @@
+METHODS OF TUPLES
+#index METHOD
+
+tup = (4,1,3,6,4,3)
+print(tup.index(3))    # RETURNS INDEX OF 1ST OCCURRENCE OF AN ELEMENT.
+
+#count METHOD
+
+tup = (4,1,3,6,4,3,3,3)
+print(tup.count(3))    # RETURNS TOTAL OCCURRENCES OF AN ELEMENT IN A LIST.
