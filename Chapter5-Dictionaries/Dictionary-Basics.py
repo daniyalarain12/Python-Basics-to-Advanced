@@ -13,6 +13,7 @@ info = {
 }
 print(info)
 print(type(info))
+print("LENGTH :",len(info))
 print("OLD CGPA :",info["CGPA"])
 info["CGPA"] = 3.78
 print("NEW CGPA :",info["CGPA"])
