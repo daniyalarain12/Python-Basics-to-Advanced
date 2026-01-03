@@ -1,0 +1,11 @@
+# CONTINUE STATEMENT
+# TERMINATES EXECUTION IN THE CURRENT ITERATION AND CONTINUE EXECUTION OF THE LOOP WITH THE NEXT ITERATION.
+
+i = 1
+while i<=10:
+    if(i==5):
+        i += 1
+        continue
+    print(i)
+    i += 1
+print("END OF LOOP")
