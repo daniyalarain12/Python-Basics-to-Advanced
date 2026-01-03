@@ -6,4 +6,4 @@ i = 0
 while i < len(nums):
     if(nums[i]==x):
         print("TARGET FOUND AT INDEX :",i)
-    i = i+1
+    i += 1
