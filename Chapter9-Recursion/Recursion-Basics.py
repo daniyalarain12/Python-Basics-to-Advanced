@@ -3,7 +3,7 @@
 # A FUNCTION WHICH CALLS ITSELF IS CALLED RECURSIVE FUNCTION.
 
 def show(n):
-    if(n == 0):             # BASE CASE
+    if(n == 0):             # BASE CASE (STOPPING CONDITION)
         return
     print(n)
     show(n-1)
