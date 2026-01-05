@@ -1,7 +1,7 @@
 # TYPES OF FUNCTIONS
 # 1. BUILT-IN FUNCTIONS
 # These functions are already provided by Python, so you don’t need to define them.
-# INCLUDES print, input, len, type and range FUNCTION.
+# INCLUDES print, input, len, type and range FUNCTIONS.
 
 # PRINTING MULTIPLE print STATEMENTS IN A SINGLE LINE
 print("DANIYAL",end = " ")
