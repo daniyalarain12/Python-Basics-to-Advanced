@@ -13,7 +13,7 @@ print(data)
 print(type(data))
 f.close()
 
-# CHARACTERS      | MEANING
-#     r           | READ MODE --> OPEN FOR READING (DEFAULT).
-#     w           | WRITE MODE --> OPEN FOR WRITING (RE-WRITING), TRUNCATING THE FILE FIRST.
-#     a           | APPEND MODE --> OPEN FOR WRITING, APPENDING TO THE END OF THE FILE.
+# CHARACTERS      | MEANING      |   DESCRIPTION
+#     r           | READ MODE    |   OPEN FOR READING (DEFAULT).
+#     w           | WRITE MODE   |   OPEN FOR WRITING (RE-WRITING), TRUNCATING THE FILE FIRST.
+#     a           | APPEND MODE  |   OPEN FOR WRITING, APPENDING TO THE END OF THE FILE.
