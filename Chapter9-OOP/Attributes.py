@@ -10,4 +10,9 @@ class Student:
 s1 = Student("DANIYAL ARAIN")
 print(s1.name)
 print(s1.uni_name)
+
+s2 = Student("UMAIR BHUTTO")
+print(s2.name)
+print(s2.uni_name)
+
 print(Student.uni_name)
