@@ -3,11 +3,11 @@
 
 class Student:
 
-    # DEFAULT CONSTRUCTORS
+    # DEFAULT CONSTRUCTOR
     def __init__(self):
         pass
 
-    # PARAMETERIZED CONSTRUCTORS
+    # PARAMETERIZED CONSTRUCTOR
     def __init__(self, name, marks):      # THE self PARAMETER IS THE REFERENCE TO THE CURRENT INSTANCE OF THE CLASS,
         self.name = name                  # AND IS USED TO ACCESS VARIABLES THAT BELONGS TO THE CLASS.
         self.marks = marks
