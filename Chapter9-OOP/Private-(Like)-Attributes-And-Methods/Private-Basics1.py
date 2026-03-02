@@ -14,12 +14,4 @@ class Account:
 
 acc1 = Account("24SW039","dani786")
 print(acc1.acc_no)
-
-# print(acc1.__acc_pass)              # CAN NOT ACCESS
-
-acc1.get_pass()
-print(acc1.acc_no)
-
-# print(acc1.__acc_pass)              # CAN NOT ACCESS
-
 acc1.get_pass()
