@@ -1,6 +1,8 @@
 # INHERITANCE
 # WHEN ONE class (CHILD/DERIVED) DERIVES THE PROPERTIES AND METHODS OF ANOTHER class (PARENT/BASE).
 
+# SINGLE-LEVEL INHERITANCE  (PARENT ---> CHILD)
+
 class Car:
     color = "black"
     @staticmethod
