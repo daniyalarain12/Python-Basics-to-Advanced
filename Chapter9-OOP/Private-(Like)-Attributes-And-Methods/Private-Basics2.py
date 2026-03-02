@@ -8,7 +8,7 @@ class Person:
     __name = "Anonymous"
 
     def __hello(self):
-        print("HELLO")
+        print("HELLO! PERSON")
 
     def welcome(self):
         self.__hello()
