@@ -16,8 +16,8 @@ class ToyotaCar(Car):
     def __init__(self, name):
         self.name = name
 
-c1 = ToyotaCar("FORTUNER")
-print(c1.name)
-print(c1.color)
-c1.start()
-c1.stop()
+car1 = ToyotaCar("FORTUNER")
+print(car1.name)
+print(car1.color)
+car1.start()
+car1.stop()
