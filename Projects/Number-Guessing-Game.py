@@ -17,8 +17,8 @@ while True:
         print("YOU GUESSED THE TARGET IN",count,"ATTEMPTS")
         break
     elif(userChoice < target):
-        print("YOUR NUMBER WAS TOO SMALL. TAKE A BIGGER GUESS..")
+        print("YOUR GUESSED NUMBER WAS TOO SMALL. MAKE A BIGGER GUESS..")
     else:
-        print("YOUR NUMBER WAS TOO BIG. TAKE A SMALLER GUESS..")
+        print("YOUR GUESSED NUMBER WAS TOO BIG. MAKE A SMALLER GUESS..")
 
 print("------------GAME OVER------------")
