@@ -1,0 +1,24 @@
+# Number Guessing Game
+
+import random
+
+target = random.randint(1,100)
+count = 0
+
+while True:
+    userChoice = input("GUESS THE TARGET OR QUIT (Q): ")
+    if(userChoice=="Q"):
+        break
+
+    count += 1
+    userChoice = int(userChoice)
+    if(userChoice==target):
+        print("SUCCESS : CORRECT GUESS!!")
+        print("YOU GUESSED THE TARGET IN",count,"ATTEMPTS")
+        break
+    elif(userChoice < target):
+        print("YOUR NUMBER WAS TOO SMALL. TAKE A BIGGER GUESS..")
+    else:
+        print("YOUR NUMBER WAS TOO BIG. TAKE A SMALLER GUESS..")
+
+print("------------GAME OVER------------")
