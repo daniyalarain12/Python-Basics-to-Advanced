@@ -30,4 +30,4 @@ print(list)
 
 #STRIP FUNCTION
 data = "   DANIYAL ARAIN 03092313464 44101-7359337-5   "
-print(data.strip())             # Removes all leading and trailing whitespaces of a string.
+print(data.strip())             # Removes all leading and trailing whitespaces from a string.
