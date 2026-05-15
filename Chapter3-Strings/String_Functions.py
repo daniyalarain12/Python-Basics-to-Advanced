@@ -22,3 +22,12 @@ print(str.find("YI"))           # Returns starting index of 1st occurence of a g
 #COUNT FUNCTION
 str = "I AM STUDYING MACHINE LEARNING"
 print(str.count("I"))           # Counts the occurence of a given substring in a string.
+
+#SPLIT FUNCTION
+data = "DANIYAL ARAIN 03092313464 44101-7359337-5"
+list = data.split(" ")          # Breaks a string into a list of smaller strings based on a specified delimeter.
+print(list)
+
+#STRIP FUNCTION
+data = "   DANIYAL ARAIN 03092313464 44101-7359337-5   "
+print(data.strip())             # Removes all leading and trailing whitespaces of a string.
