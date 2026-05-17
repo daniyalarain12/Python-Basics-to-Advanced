@@ -1,0 +1,11 @@
+# WRITE A PROGRAM TO ENTER MARKS OF 3 SUBJECTS FROM THE USER AND STORE THEM IN A DICTIONARY.
+# START WITH AN EMPTY DICTIONARY AND ADD ONE BY ONE. USE SUBJECT NAME AS KEY AND MARKS AS VALUE.
+
+phy = int(input("ENTER THE MARKS OF PHYSICS : "))
+chem = int(input("ENTER THE MARKS OF CHEMISTRY : "))
+math = int(input("ENTER THE MARKS OF MATHEMATICS : "))
+dict = {}
+dict.update({"PHYSICS" : phy})
+dict.update({"CHEMISTRY" : chem})
+dict.update({"MATHEMATICS" : math})
+print(dict)
