@@ -21,6 +21,9 @@ print(list(info.items()))
 pairs = list(info.items())
 print(pairs[0])
 
+for k, v in info.items():
+    print(f"{k} : {v}")
+
 print("CGPA :",info.get("CGPA"))                # RETURNS THE VALUE ACCORDING TO KEY
 
 info.update({"NATIONALITY" : "PAKISTANI"})      # INSERTS THE SPECIFIED ITEMS TO THE DICTIONARY
