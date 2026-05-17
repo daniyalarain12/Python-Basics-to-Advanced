@@ -1,9 +1,6 @@
-# STORE FOLLOWING WORD MEANINGS IN A PYTHON DICTIONARY:
-# table : "a piece of furniture", "list of facts and figures"
-# cat : "a small animal"
+# YOU ARE GIVEN A LIST OF SUBJECTS FOR STUDENTS. ASSUME 1 CLASSROOM IS REQUIRED FOR 1 SUBJECT. 
+# HOW MANY CLASSROOMS ARE NEEDED BY ALL STUDENTS. 
+# "PYTHON", "JAVA", "C++", "PYTHON", "JAVASCRIPT", "JAVA", "PYTHON", "JAVA", "C++", "C"
 
-dict = {
-    "table" : ["a piece of furniture","list of facts and figures"],
-    "cat" : "a small animal"
-}
-print(dict)
+subjects = {"PYTHON", "JAVA", "C++", "PYTHON", "JAVASCRIPT", "JAVA", "PYTHON", "JAVA", "C++", "C"}
+print("TOTAL NO. OF CLASSROOMS REQUIRED FOR STUDENTS :", len(subjects))
