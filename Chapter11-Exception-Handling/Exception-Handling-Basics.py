@@ -1,5 +1,5 @@
 """
-Exception Handling: Exception means a error.
+Exception Handling: Exception means an error.
 We had 2 clauses in Exception Handling:
 1. try: we provide the code to try if there is an error.
 2. except: except clause will only be executed when there is an error in try clause.
