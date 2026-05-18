@@ -48,3 +48,8 @@ marks1 = [98,97,88,67,89,67]
 marks2 = marks1.copy()       # Creates a copy of the list.
 print(marks1)
 print(marks2)
+
+#enumerate METHOD
+list = ["DANIYAL","BABAR","ALI","SAMI","IZHAN"]
+for index, value in enumerate(list):            # ADD INDEX NUMBERS TO ITEMS IN A LIST.
+    print(f"{index+1}. {value}")
