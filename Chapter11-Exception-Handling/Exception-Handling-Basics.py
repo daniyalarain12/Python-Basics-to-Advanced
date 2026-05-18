@@ -1,8 +1,11 @@
 """
-Exception Handling: Exception means an error.
+Exception Handling: 
+
+Exception: Problems that occur at runtime and can be managed using exception handling.
+
 We had 2 clauses in Exception Handling:
-1. try: we provide the code to try if there is an error.
-2. except: except clause will only be executed when there is an error in try clause.
+1. try: Runs the risky code that might cause an error.
+2. except: Catches and handles the error if error occurs.
 """
 
 list = [10,20,30,40,50]
