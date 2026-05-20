@@ -36,5 +36,5 @@ f.close()
 
 f = open("D:\Python\Chapter8\data2.txt","r")
 line = f.readline()
-print(line.strip().split(","))                  # Remove extra spaces/newline, split data by comma, and convert it into a list
+print(line.strip().split(","))                  # Remove extra spaces/newline, split data by comma, and convert it into a list.
 f.close()
