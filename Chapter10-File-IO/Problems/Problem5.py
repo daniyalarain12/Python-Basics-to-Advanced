@@ -1,6 +1,6 @@
 # FROM A FILE CONTAINING NUMBERS SEPARATED BY COMMA, PRINT THE COUNT OF EVEN NUMBERS.
 
-with open("D:\Python\practice.txt","r") as f:
+with open("practice.txt","r") as f:
     data = f.read()
 
     list = data.split(",")
