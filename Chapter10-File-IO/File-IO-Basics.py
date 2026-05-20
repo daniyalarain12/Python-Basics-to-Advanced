@@ -7,7 +7,7 @@
 # OPEN, READ AND CLOSE FILE
 # WE HAVE TO OPEN A FILE BEFORE READING OR WRITING.
 
-f = open("D:\Python\Chapter7\demo.txt","r")           # f = open("file name","mode")
+f = open("demo.txt","r")           # f = open("file name","mode")
 data = f.read()
 print(data)
 print(type(data))
