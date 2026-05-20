@@ -4,4 +4,4 @@
 # MODULE (LIKE A CODE LIBRARY) IS A FILE WRITTEN BY ANOTHER PROGRAMMER THAT GENERALLY HAS FUNCTIONS WE CAN USE.
 
 import os
-os.remove("D:\Python\Chapter7\dani.txt")
+os.remove("dani.txt")
