@@ -10,7 +10,7 @@ class Employee:
         print("ROLE :",self.role)
         print("DEPARTMENT :",self.dept)
         print("SALARY :",self.sal)
-
+        
 class Engineer(Employee):
     def __init__(self, name, age):
         self.name = name
