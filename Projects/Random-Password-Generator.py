@@ -1,4 +1,4 @@
-# RANDOM PASSWORD GENERATOR
+# ===== RANDOM PASSWORD GENERATOR =====
 
 import random, string
 
