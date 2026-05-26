@@ -1,4 +1,4 @@
-# Number Guessing Game
+# ===== NUMBER GUESSING GAME =====
 
 import random
 
