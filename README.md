@@ -1,6 +1,6 @@
 # 🐍 Python — Basics to Advanced
 
-> A structured, chapter-by-chapter Python learning repository covering everything from beginner fundamentals to advanced Object-Oriented Programming — with 50+ practice problems and 5 real-world projects.
+> A structured, chapter-by-chapter Python learning repository covering everything from beginner fundamentals to advanced Object-Oriented Programming — with 100+ practice problems and 5 real-world projects.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
