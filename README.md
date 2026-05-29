@@ -249,7 +249,7 @@ python Chapter1/filename.py
 |--------|-------|
 | Total Chapters | 14 |
 | Total Projects | 5 |
-| Practice Problems | 50+ |
+| Practice Problems | 100+ |
 | Total Commits | 335+ |
 | Language | Python 100% |
 
